@@ -1,0 +1,38 @@
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.AssemblyInfo.cs
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.deps.json
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.runtimeconfig.json
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.dll
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.pdb
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Domain.dll
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Application.pdb
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Domain.pdb
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServ.694DDABA.Up2Date
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.dll
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\refint\GameServer.Infrastructure.dll
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.pdb
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.genruntimeconfig.cache
+C:\Users\ibadn\OneDrive\İş masası\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\ref\GameServer.Infrastructure.dll
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.deps.json
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.runtimeconfig.json
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.dll
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Infrastructure.pdb
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Application.dll
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Domain.dll
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Application.pdb
+C:\GameServerProject\src\GameServer.Infrastructure\bin\Debug\net8.0\GameServer.Domain.pdb
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.csproj.AssemblyReference.cache
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.AssemblyInfoInputs.cache
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.AssemblyInfo.cs
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServ.694DDABA.Up2Date
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.dll
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\refint\GameServer.Infrastructure.dll
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.pdb
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\GameServer.Infrastructure.genruntimeconfig.cache
+C:\GameServerProject\src\GameServer.Infrastructure\obj\Debug\net8.0\ref\GameServer.Infrastructure.dll
